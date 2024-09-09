@@ -254,3 +254,8 @@ main .section.highlight {
 .cta-outline .default-content-wrapper p.button-container a {
   margin: 0;
 }
+
+.section.location-container {
+  background-color: rgb(243, 240, 240);
+  padding: 0px;
+}
