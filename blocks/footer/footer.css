@@ -1,7 +1,7 @@
 footer {
   padding: 2rem;
   /*background-color: var(--light-color);*/
-  background-color: #10091a;
+  background-color: rgb(71, 71, 71);
   font-size: var(--body-font-size-s);
   text-align: center;
 }
