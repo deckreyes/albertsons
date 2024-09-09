@@ -148,19 +148,19 @@
 
 /* editorial cards */
 .editorial-cards:not(.product-cards) .cards > ul {
-  grid-template-columns: repeat(12, 1fr);
-  grid-gap: 16px;
+  grid-template-columns: repeat(10, 1fr);
+  grid-gap: 16px;  
 }
 
 .editorial-cards:not(.product-cards) .cards ul li:first-of-type,
 .editorial-cards:not(.product-cards) .cards ul li:nth-of-type(2),
-.editorial-cards:not(.product-cards) .cards ul li:nth-of-type(3) {
-  grid-column: span 4;
+.editorial-cards:not(.product-cards) .cards ul li:nth-of-type(4) {
+  grid-column: span 2;
   
 }
 
 .editorial-cards:not(.product-cards) .cards ul li {
-  grid-column: span 3;
+  grid-column: span 2;
 }
 
 .editorial-cards:not(.product-cards) .cards ul li .cards-card-body {
