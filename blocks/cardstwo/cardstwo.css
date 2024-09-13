@@ -52,8 +52,10 @@
 /* card typography */
 .cardstwo .cardstwo-card-body h3 {
   font-weight: 400;
-  font-size: var(--body-font-size-xs);
-  margin: 0;
+  font-size: 25px;
+  font-style: italic;
+   color: blueviolet;
+   margin: 0;
 }
 
 .cardstwo .cardstwo-card-body h3 strong {
